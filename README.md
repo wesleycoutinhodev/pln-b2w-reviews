@@ -102,12 +102,12 @@ O trabalho foca na análise do **Dataset B2W-Reviews01**, um corpus aberto de av
 | Operação | Notebook | Colab Link | Status |
 |----------|----------|------------|--------|
 | 1-3 | Análise e Tratamento de Dados | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacoes_1_2_3_Tratamento_Dados.ipynb) | ✅ |
-| 4-5 | Conversão e Divisão dos Dados | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacoes_4_5_Conversao_Split.ipynb) | ✅ |
-| 6 | Tokenização com TextVectorization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacao_6_TextVectorization.ipynb) | ✅ |
-| 7 | Remoção de Stopwords | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacao_7_Stopwords.ipynb) | ✅ |
-| 8 | CountVectorizer e TFIDF | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacao_8_Vectorizers.ipynb) | ✅ |
-| 9 | Word Embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacao_9_Word_Embeddings.ipynb) | ✅ |
-| 10 | Doc2Vec e SentenceBERT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacao_10_Doc_Embeddings.ipynb) | ✅ |
+| 4-5 | Conversão e Divisão dos Dados | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacoes_4_5_Conversao_Split.ipynb) | ❌ |
+| 6 | Tokenização com TextVectorization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacao_6_TextVectorization.ipynb) | ❌ |
+| 7 | Remoção de Stopwords | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacao_7_Stopwords.ipynb) | ❌ |
+| 8 | CountVectorizer e TFIDF | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacao_8_Vectorizers.ipynb) | ❌ |
+| 9 | Word Embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacao_9_Word_Embeddings.ipynb) | ❌ |
+| 10 | Doc2Vec e SentenceBERT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleycoutinhodev/pln-b2w-reviews/blob/main/notebooks/Operacao_10_Doc_Embeddings.ipynb) | ❌ |
 
 ### 💡 Vantagens do Colab
 - ✅ **GPU gratuita**: Acelera treinamento de embeddings e processamento
